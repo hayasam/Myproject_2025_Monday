@@ -9,7 +9,7 @@ class hello{
 
         // hello my name is mohammad bishawi
     }
-    public void hi(){
+    public void hi(int x)){
         System.out.println("hi");
     }   
 }
